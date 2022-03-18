@@ -1,0 +1,15 @@
+.idea/
+pycache/
+*.py[cod]
+*.pyc
+pycache*
+*/pycache*
+**pycache/
+*pycache*
+*.iml
+*.bat
+*.log
+.coverage
+.pytest_cache/
+.cache
+*.snapshot
